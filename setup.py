@@ -12,7 +12,7 @@ setup (name = 'ccnvector',
        version = '1.0',
        description = 'leanest iface to nvector',
        author = 'Stoddard',
-       author_email = 'stoddard@cfe.one',
+       author_email = 'stoddard@lxnt.info',
        url = 'https://docs.python.org/extending/building',
        long_description = '''
 ...
